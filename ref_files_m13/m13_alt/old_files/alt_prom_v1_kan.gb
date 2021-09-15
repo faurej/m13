@@ -1,0 +1,531 @@
+LOCUS       Exported                7335 bp ds-DNA     circular SYN 07-SEP-2021
+DEFINITION  Enterobacteria phage M13 isolate WT variety Rutgers, complete 
+            genome.
+ACCESSION   JX412914
+VERSION     .
+KEYWORDS    .
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct
+REFERENCE   1  (bases 1 to 7335)
+  AUTHORS   Messing J, Ayer JJ.
+  TITLE     Phage M13, WT variety Rutgers
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 7335)
+  AUTHORS   Messing J, Ayer JJ.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JUL-2012) Waksman Institute of Microbiology, Rutgers, 
+            the State University of New Jersey, 190 Frelinghuysen Road, 
+            Piscataway, NJ 08854, USA
+REFERENCE   3  (bases 1 to 7335)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported Tuesday, Sep 7, 2021 from SnapGene Viewer 5.1.0
+            https://www.snapgene.com
+COMMENT     SGRef: number: 1; type: "Journal Article"; journalName: 
+            "Unpublished"
+COMMENT     SGRef: number: 2; type: "Journal Article"; journalName: "Submitted
+            (20-JUL-2012) Waksman Institute of Microbiology, Rutgers, the State
+            University of New Jersey, 190 Frelinghuysen Road, Piscataway, NJ
+            08854, USA"
+COMMENT     manually_annotated_m13_genome from 1 to 6407 ##Assembly-Data-START##
+            Assembly Method       :: DNASTAR Lasergene SeqMan Pro v. 8.0.2(13)  
+            Sequencing Technology :: AB3730x1 DNA Analyzer ##Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..7335
+                     /organism="synthetic DNA construct"
+                     /mol_type="other DNA"
+     source          1..5920
+                     /organism="synthetic DNA construct"
+                     /mol_type="other DNA"
+                     /note="/locus_tag=source:synthetic DNA construct"
+     source          1..3060
+                     /organism="synthetic DNA construct"
+                     /mol_type="other DNA"
+                     /label=source:synthetic DNA construct
+                     /note="/locus_tag=source:synthetic DNA construct"
+                     /note="/locus_tag=source:synthetic DNA construct(1)"
+     source          1..357
+                     /organism="Escherichia virus M13"
+                     /host="Escherichia coli"
+                     /isolate="WT variety Rutgers"
+                     /mol_type="genomic DNA"
+                     /country="USA"
+                     /label=/locus_tag=source:Escherichia virus M13
+                     /note="/locus_tag=source:Escherichia virus M13"
+                     /note="/locus_tag=source:Escherichia virus M13"
+                     /note="/locus_tag=source:Escherichia virus M13"
+                     /db_xref="taxon:1977402"
+     source          439..747
+                     /organism="Escherichia virus M13"
+                     /host="Escherichia coli"
+                     /isolate="WT variety Rutgers"
+                     /mol_type="genomic DNA"
+                     /country="USA"
+                     /label=source:Escherichia virus M13
+                     /note="/locus_tag=source:Escherichia virus M13(1)"
+                     /note="/locus_tag=source:Escherichia virus M13(1)"
+                     /note="/locus_tag=source:Escherichia virus M13(1)"
+                     /db_xref="taxon:1977402"
+     source          829..2701
+                     /organism="Escherichia virus M13"
+                     /host="Escherichia coli"
+                     /isolate="WT variety Rutgers"
+                     /mol_type="genomic DNA"
+                     /country="USA"
+                     /label=source:Escherichia virus M13
+                     /note="/locus_tag=source:Escherichia virus M13(4)"
+                     /note="/locus_tag=source:Escherichia virus M13(2)"
+                     /note="/locus_tag=source:Escherichia virus M13(2)"
+                     /db_xref="taxon:1977402"
+     source          2783..3060
+                     /organism="Escherichia virus M13"
+                     /host="Escherichia coli"
+                     /isolate="WT variety Rutgers"
+                     /mol_type="genomic DNA"
+                     /country="USA"
+                     /label=source:Escherichia virus M13
+                     /note="/locus_tag=source:Escherichia virus M13(5)"
+                     /note="/locus_tag=source:Escherichia virus M13(3)"
+                     /note="/locus_tag=source:Escherichia virus M13(3)"
+                     /db_xref="taxon:1977402"
+     source          3142..5920
+                     /organism="synthetic DNA construct"
+                     /mol_type="other DNA"
+                     /label=source:synthetic DNA construct
+                     /note="/locus_tag=source:synthetic DNA construct(1)"
+                     /note="/locus_tag=source:synthetic DNA construct(2)"
+     source          3142..3209
+                     /organism="Escherichia virus M13"
+                     /host="Escherichia coli"
+                     /isolate="WT variety Rutgers"
+                     /mol_type="genomic DNA"
+                     /country="USA"
+                     /label=source:Escherichia virus M13
+                     /note="/locus_tag=source:Escherichia virus M13(6)"
+                     /note="/locus_tag=source:Escherichia virus M13(4)"
+                     /note="/locus_tag=source:Escherichia virus M13(4)"
+                     /db_xref="taxon:1977402"
+     source          3291..4044
+                     /organism="Escherichia virus M13"
+                     /host="Escherichia coli"
+                     /isolate="WT variety Rutgers"
+                     /mol_type="genomic DNA"
+                     /country="USA"
+                     /label=source:Escherichia virus M13
+                     /note="/locus_tag=source:Escherichia virus M13(7)"
+                     /note="/locus_tag=source:Escherichia virus M13(5)"
+                     /note="/locus_tag=source:Escherichia virus M13(5)"
+                     /db_xref="taxon:1977402"
+     source          4126..4620
+                     /organism="Escherichia virus M13"
+                     /host="Escherichia coli"
+                     /isolate="WT variety Rutgers"
+                     /mol_type="genomic DNA"
+                     /country="USA"
+                     /label=source:Escherichia virus M13
+                     /note="/locus_tag=source:Escherichia virus M13(3)"
+                     /note="/locus_tag=source:Escherichia virus M13(6)"
+                     /note="/locus_tag=source:Escherichia virus M13(6)"
+                     /db_xref="taxon:1977402"
+     source          4702..5920
+                     /organism="Escherichia virus M13"
+                     /host="Escherichia coli"
+                     /isolate="WT variety Rutgers"
+                     /mol_type="genomic DNA"
+                     /country="USA"
+                     /label=source:Escherichia virus M13
+                     /note="/locus_tag=source:Escherichia virus M13(8)"
+                     /note="/locus_tag=source:Escherichia virus M13(7)"
+                     /note="/locus_tag=source:Escherichia virus M13(7)"
+                     /db_xref="taxon:1977402"
+     source          6849..7335
+                     /organism="synthetic DNA construct"
+                     /mol_type="other DNA"
+                     /label=source:synthetic DNA construct
+                     /note="/locus_tag=source:synthetic DNA construct(3)"
+     source          6849..7335
+                     /organism="synthetic DNA construct"
+                     /mol_type="other DNA"
+                     /label=source:synthetic DNA construct
+                     /note="/locus_tag=source:synthetic DNA construct(1)"
+                     /note="/locus_tag=source:synthetic DNA construct(4)"
+     source          6849..7112
+                     /organism="Escherichia virus M13"
+                     /host="Escherichia coli"
+                     /isolate="WT variety Rutgers"
+                     /mol_type="genomic DNA"
+                     /country="USA"
+                     /label=source:Escherichia virus M13
+                     /note="/locus_tag=source:Escherichia virus M13(8)"
+                     /note="/locus_tag=source:Escherichia virus M13(7)"
+                     /note="/locus_tag=source:Escherichia virus M13(9)"
+                     /db_xref="taxon:1977402"
+     source          7194..7335
+                     /organism="Escherichia virus M13"
+                     /host="Escherichia coli"
+                     /isolate="WT variety Rutgers"
+                     /mol_type="genomic DNA"
+                     /country="USA"
+                     /label=source:Escherichia virus M13
+                     /note="/locus_tag=source:Escherichia virus M13(2)"
+                     /note="/locus_tag=source:Escherichia virus M13(8)"
+                     /note="/locus_tag=source:Escherichia virus M13(8)"
+                     /db_xref="taxon:1977402"
+     misc_feature    358..438
+                     /locus_tag="alt_promX"
+                     /label=alt_promX
+     misc_feature    481..495
+                     /locus_tag="rbsX"
+                     /label=rbsX
+     CDS             496..831
+                     /codon_start=1
+                     /transl_table=11
+                     /gene="X"
+                     /locus_tag="X"
+                     /product="hypothetical protein"
+                     /label=X
+                     /protein_id="AFQ21797.1"
+                     /translation="MNIYDDSAVLDAIQSKHFTITPSGKTSFAKASRYFGFYRRLVNEG
+                     YDSVALTMPRNSFWRYVSALVECGIPKSQLMNLSTCNNVVPLVRFINVDFSSQRPDWYN
+                     EPVLKIA"
+     misc_feature    748..828
+                     /locus_tag="alt_promV"
+                     /label=alt_promV
+     misc_feature    829..842
+                     /locus_tag="rbsV"
+                     /label=rbsV
+     gene            843..1106
+                     /gene="V"
+                     /locus_tag="V"
+                     /label=V
+     CDS             843..1106
+                     /codon_start=1
+                     /transl_table=11
+                     /gene="V"
+                     /locus_tag="V(1)"
+                     /product="helix destabilizing protein"
+                     /label=V
+                     /protein_id="AFQ21792.1"
+                     /translation="MIKVEIKPSQAQFTTRSGVSRQGKPYSLNEQLCYVDLGNEYPVLV
+                     KITLDEGQPAYAPGLYTVHLSSFKVGQFGSLMIDRLRLVPAK"
+     misc_feature    1096..1107
+                     /locus_tag="rbsVII"
+                     /label=rbsVII
+     gene            1108..1209
+                     /gene="VII"
+                     /locus_tag="VII"
+                     /label=VII
+     CDS             1108..1209
+                     /codon_start=1
+                     /transl_table=11
+                     /gene="VII"
+                     /locus_tag="VII(1)"
+                     /product="phage assembly protein"
+                     /label=VII
+                     /protein_id="AFQ21794.1"
+                     /translation="MEQVADFDTIYQAMIQISVVLCFALGIIAGGQR"
+     misc_feature    1185..1190
+                     /locus_tag="-10_box_for_VIII"
+                     /label=-10_box_for_VIII
+     misc_feature    1195..1205
+                     /locus_tag="rbsIX"
+                     /label=rbsIX
+     gene            1206..1304
+                     /gene="IX"
+                     /locus_tag="IX"
+                     /label=IX
+     CDS             1206..1304
+                     /codon_start=1
+                     /transl_table=11
+                     /gene="IX"
+                     /locus_tag="IX(1)"
+                     /product="hypothetical protein"
+                     /label=IX
+                     /protein_id="AFQ21796.1"
+                     /translation="MSVLVYSFASFVLGWCLRSGITYFTRLMETSS"
+     misc_feature    1287..1300
+                     /locus_tag="rbsVIII"
+                     /label=rbsVIII
+     gene            1301..1522
+                     /gene="VIII"
+                     /locus_tag="VIII"
+                     /label=VIII
+     CDS             1301..1522
+                     /codon_start=1
+                     /transl_table=11
+                     /gene="VIII"
+                     /locus_tag="VIII(1)"
+                     /product="major coat protein"
+                     /label=VIII
+                     /note="structural protein"
+                     /protein_id="AFQ21795.1"
+                     /translation="MKKSLVLKASVAVATLVPMLSFAAEGDDPAKAAFNSLQASATEYI
+                     GYAWAMVVVIVGATIGIKLFKKFTSKAS"
+     misc_feature    1531..1537
+                     /locus_tag="-10_box_for_III"
+                     /label=-10_box_for_III
+     misc_feature    1538..1565
+                     /locus_tag="terminator_smits_et_al"
+                     /label=terminator_smits_et_al
+     misc_feature    1565..1578
+                     /locus_tag="rbsIII"
+                     /label=rbsIII
+     CDS             1579..2853
+                     /codon_start=1
+                     /transl_table=11
+                     /gene="III"
+                     /locus_tag="III"
+                     /product="structural protein"
+                     /label=III
+                     /protein_id="AFQ21790.1"
+                     /translation="MKKLLFAIPLVVPFYSHSAETVESCLAKPHTENSFTNVWKDDKTL
+                     DRYANYEGCLWNATGVVVCTGDETQCYGTWVPIGLAIPENEGGGSEGGGSEGGGSEGGG
+                     TKPPEYGDTPIPGYTYINPLDGTYPPGTEQNPANPNPSLEESQPLNTFMFQNNRFRNRQ
+                     GALTVYTGTFTQGTDPVKTYYQYTPVSSKAMYDAYWNGKFRDCAFHSGFNEDPFVCEYQ
+                     GQSSDLPQPPVNAGGGSGGGSGGGSEGGGSEGGGSEGGGSEGGGSGGGSGSGDFDYEKM
+                     ANANKGAMTENADENALQSDAKGKLDSVATDYGAAIDGFIGDVSGLANGNGATGDFAGS
+                     NSQMAQVGDGDNSPLMNNFRQYLPSLPQSVECRPFVFGAGKPYEFSIDCDKINLFRGVF
+                     AFLLYVATFMYVFSTFANILRNKES"
+     misc_feature    2702..2782
+                     /locus_tag="alt_promVI"
+                     /label=alt_promVI
+     misc_feature    2841..2855
+                     /locus_tag="rbsVI"
+                     /label=rbsVI
+     CDS             2856..3194
+                     /codon_start=1
+                     /transl_table=11
+                     /gene="VI"
+                     /locus_tag="VI"
+                     /product="small hydrophobic protein"
+                     /label=VI
+                     /protein_id="AFQ21793.1"
+                     /translation="MPVLLGIPLLLRFLGFLLVTLFGYLLTFLKKGFGKIAIAISLFLA
+                     LIIGLNSILVGYLSDISAQLPSDFVQGVQLILPSNALPCFYVILSVKAAIFIFDVKQKI
+                     VSYLDWDK"
+     misc_feature    3061..3141
+                     /locus_tag="alt_promI"
+                     /label=alt_promI
+     misc_feature    3182..3195
+                     /locus_tag="rbsI"
+                     /label=rbsI
+     CDS             3196..4242
+                     /codon_start=1
+                     /transl_table=11
+                     /gene="I"
+                     /locus_tag="I"
+                     /product="phage assembly protein"
+                     /label=I
+                     /protein_id="AFQ21788.1"
+                     /translation="MAVYFVTGKLGSGKTLVSVGKIQDKIVAGCKIATNLDLRLQNLPQ
+                     VGRFAKTPRVLRIPDKPSISDLLAIGRGNDSYDENKNGLLVLDECGTWFNTRSWNDKER
+                     QPIIDWFLHARKLGWDIIFLVQDLSIVDKQARSALAEHVVYCRRLDRITLPFVGTLYSL
+                     ITGSKMPLPKLHVGVVKYGDSQLSPTVERWLYTGKNLYNAYDTKQAFSSNYDSGVYSYL
+                     TPYLSHGRYFKPLNLGQKMKLTKIYLKKFSRVLCLAIGFASAFTYSYITQPKPEVKKVV
+                     SQTYDFDKFTIDSSQRLNLSYRYVFKDSKGKLINSDDLQKQGYSLTYIDLCTVSIKKGN
+                     SNEIVKCN"
+     misc_feature    3210..3290
+                     /locus_tag="alt_promI'"
+                     /label=alt_promI'
+     misc_feature    3315..3341
+                     /locus_tag="leaky_term_before_gene1_rho_dependant"
+                     /label=leaky_term_before_gene1_rho_dependant
+     misc_feature    4045..4125
+                     /locus_tag="alt_promIV"
+                     /label=alt_promIV
+     misc_feature    4205..4219
+                     /locus_tag="rbsIV"
+                     /label=rbsIV
+     CDS             4220..5500
+                     /codon_start=1
+                     /transl_table=11
+                     /gene="IV"
+                     /locus_tag="phage assembly protein"
+                     /product="phage assembly protein"
+                     /label=IV
+                     /protein_id="AFQ21791.1"
+                     /translation="MKLLNVINFVFLMFVSSSSFAQVIEMNNSPLRDFVTWYSKQSGES
+                     VIVSPDVKGTVTVYSSDVKPENLRNFFISVLRANNFDMVGSNPSIIQKYNPNNQDYIDE
+                     LPSSDNQEYDDNSAPSGGFFVPQNDNVTQTFKINNVRAKDLIRVVELFVKSNTSKSSNV
+                     LSIDGSNLLVVSAPKDILDNLPQFLSTVDLPTDQILIEGLIFEVQQGDALDFSFAAGSQ
+                     RGTVAGGVNTDRLTSVLSSAGGSFGIFNGDVLGLSVRALKTNSHSKILSVPRILTLSGQ
+                     KGSISVGQNVPFITGRVTGESANVNNPFQTIERQNVGISMSVFPVAMAGGNIVLDITSK
+                     ADSLSSSTQASDVITNQRSIATTVNLRDGQTLLLGGLTDYKNTSQDSGVPFLSKIPLIG
+                     LLFSSRSDSNEESTLYVLVKATIVRAL"
+     misc_feature    4621..4701
+                     /locus_tag="alt_promIV'"
+                     /label=alt_promIV'
+     misc_feature    5488..5868
+                     /locus_tag="m13 ori"
+                     /label=m13 ori
+     misc_feature    5499..5576
+                     /locus_tag="terminator_A"
+                     /label=terminator_A
+     misc_feature    5624..5678
+                     /locus_tag="terminator B"
+                     /label=terminator B
+     misc_feature    5691..5750
+                     /locus_tag="terminator C"
+                     /label=terminator C
+     misc_feature    5765..5811
+                     /locus_tag="terminatorD/E"
+                     /label=terminatorD/E
+     misc_feature    5921..6736
+                     /locus_tag="aminoglycoside phosphotransferase"
+                     /label=aminoglycoside phosphotransferase
+     misc_feature    6737..6848
+                     /locus_tag="prom_of_kanR"
+                     /label=prom_of_kanR
+     misc_feature    6885..6891
+                     /locus_tag="-10_box_for_II"
+                     /label=-10_box_for_II
+     misc_feature    6919..6933
+                     /locus_tag="rbsII"
+                     /label=rbsII
+     CDS             join(6934..7335,1..831)
+                     /codon_start=1
+                     /transl_table=11
+                     /gene="II"
+                     /locus_tag="II"
+                     /product="hypothetical protein"
+                     /label=II
+                     /protein_id="AFQ21789.1"
+                     /translation="MIDMLVLRLPFIDSLVCSRLSGNDLIAFVDLSKIATLSGINLSAR
+                     TVEYHIDGDLTVSGLSHPFESLPTHYSGIAFKIYEGSKNFYPCVEIKASPAKVLQGHNV
+                     FGTTDLALCSEALLLNFANSLPCLYDLLDVNATTISRIDATFSARAPNENIAKQVIDHL
+                     RNVSNGQTKSTRSQNWESTVTWNETSRHRTLVAYLKHVELQHQIQQLSSKPSAKMTSYQ
+                     KEQLKVLSNPDLLEFASGLVRFEARIKTRYLKSFGLPLNLFDAIRFASDYNSQGKDLIF
+                     DLWSFSFSELFKAFEGDSMNIYDDSAVLDAIQSKHFTITPSGKTSFAKASRYFGFYRRL
+                     VNEGYDSVALTMPRNSFWRYVSALVECGIPKSQLMNLSTCNNVVPLVRFINVDFSSQRP
+                     DWYNEPVLKIA"
+     misc_feature    6934..6942
+                     /locus_tag="rbsII'"
+                     /label=rbsII'
+     misc_feature    7113..7193
+                     /locus_tag="alt_promII'"
+                     /label=alt_promII'
+ORIGIN
+        1 aacgctacta ctattagtag aattgatgcc accttttcag ctcgcgcccc aaatgaaaat
+       61 atagctaaac aggttattga ccatttgcga aatgtatcta atggtcaaac taaatctact
+      121 cgttcgcaga attgggaatc aactgttaca tggaatgaaa cttccagaca ccgtacttta
+      181 gttgcatatt taaaacatgt tgagctacag caccagattc agcaattaag ctctaagcca
+      241 tccgcaaaaa tgacctctta tcaaaaggag caattaaagg tactctctaa tcctgacctg
+      301 ttggagtttg cttccggtct ggttcgcttt gaagctcgaa ttaaaacgcg atatttgaag
+      361 tctttcgggc ttcctcttaa cctctttgat gctatccgct ttgcttctga ctacaacagt
+      421 cagggtaaag acctgatttt tgatttatgg tcattctcgt tttctgaact gtttaaagca
+      481 tttgaggggg attcaatgaa tatttatgac gattccgcag tattggacgc tatccagtct
+      541 aaacatttta ctattacccc ctctggcaaa acttcttttg caaaagcctc tcgctatttt
+      601 ggtttttatc gtcgtctggt aaacgagggt tatgatagtg ttgctcttac tatgcctcgt
+      661 aattcctttt ggcgttatgt atctgcatta gttgaatgtg gtattcctaa atctcaactg
+      721 atgaatcttt ctacctgtaa taatgttgtt ccgttagttc gttttattaa cgtagatttc
+      781 agctcccaac gtcctgactg gtacaatgag cccgttctta aaatcgcata aggtaattca
+      841 caatgattaa agttgaaatt aaaccatctc aagcccaatt tactactcgt tctggtgttt
+      901 ctcgtcaggg caagccttat tcactgaatg agcagctttg ttacgttgat ttgggtaatg
+      961 aatatccggt tcttgtcaag attactcttg atgaaggtca gccagcctat gcgcctggtc
+     1021 tgtacaccgt tcatctgtcc tctttcaaag ttggtcagtt cggttccctt atgattgacc
+     1081 gtctgcgcct cgttccggct aagtaacatg gagcaggtcg cggatttcga cacaatttat
+     1141 caggcgatga tacaaatctc cgttgtactt tgtttcgcgc ttggtataat cgctgggggt
+     1201 caaagatgag tgttttagtg tattctttcg cctctttcgt tttaggttgg tgccttcgta
+     1261 gtggcattac gtattttacc cgtttaatgg aaacttcctc atgaaaaagt ctttagtcct
+     1321 caaagcctct gtagccgttg ctaccctcgt tccgatgctg tctttcgctg ctgagggtga
+     1381 cgatcccgca aaagcggcct ttaactccct gcaagcctca gcgaccgaat atatcggtta
+     1441 tgcgtgggcg atggttgttg tcattgtcgg cgcaactatc ggtatcaagc tgtttaagaa
+     1501 attcacctcg aaagcaagct gataaaccga tacaattaaa ggctcctttt ggagcctttt
+     1561 tttttggaga ttttcaacgt gaaaaaatta ttattcgcaa ttcctttagt tgttcctttc
+     1621 tattctcact ccgctgaaac tgttgaaagt tgtttagcaa aaccccatac agaaaattca
+     1681 tttactaacg tctggaaaga cgacaaaact ttagatcgtt acgctaacta tgagggctgt
+     1741 ctgtggaatg ctacaggcgt tgtagtttgt actggtgacg aaactcagtg ttacggtaca
+     1801 tgggttccta ttgggcttgc tatccctgaa aatgagggtg gtggctctga gggtggcggt
+     1861 tctgagggtg gcggttctga gggtggcggt actaaacctc ctgagtacgg tgatacacct
+     1921 attccgggct atacttatat caaccctctc gacggcactt atccgcctgg tactgagcaa
+     1981 aaccccgcta atcctaatcc ttctcttgag gagtctcagc ctcttaatac tttcatgttt
+     2041 cagaataata ggttccgaaa taggcagggg gcattaactg tttatacggg cacttttact
+     2101 caaggcactg accccgttaa aacttattac cagtacactc ctgtatcatc aaaagccatg
+     2161 tatgacgctt actggaacgg taaattcaga gactgcgctt tccattctgg ctttaatgag
+     2221 gatccattcg tttgtgaata tcaaggccaa tcgtctgacc tgcctcaacc tcctgtcaat
+     2281 gctggcggcg gctctggtgg tggttctggt ggcggctctg agggtggtgg ctctgagggt
+     2341 ggcggttctg agggtggcgg ctctgaggga ggcggttccg gtggtggctc tggttccggt
+     2401 gattttgatt atgaaaagat ggcaaacgct aataaggggg ctatgaccga aaatgccgat
+     2461 gaaaacgcgc tacagtctga cgctaaaggc aaacttgatt ctgtcgctac tgattacggt
+     2521 gctgctatcg atggtttcat tggtgacgtt tccggccttg ctaatggtaa tggtgctact
+     2581 ggtgattttg ctggctctaa ttcccaaatg gctcaagtcg gtgacggtga taattcacct
+     2641 ttaatgaata atttccgtca atatttacct tccctccctc aatcggttga atgtcgccct
+     2701 tttgtctttg gcgctgggaa accgtacgag ttttctattg attgtgacaa gatcaacctc
+     2761 tttcgtggtg tctttgcgtt tcttttatat gttgccacct ttatgtatgt attttctacg
+     2821 tttgctaaca tactgcgtaa taaggagtct taatcatgcc agttcttttg ggtattccgt
+     2881 tattattgcg tttcctcggt ttccttctgg taactttgtt cggctatctg cttacttttc
+     2941 ttaaaaaggg cttcggtaag atagctattg ctatttcatt gtttcttgct cttattattg
+     3001 ggcttaactc aattcttgtg ggttatctct ctgatattag cgctcaatta ccctctgact
+     3061 ttgttcaggg tgttcagtta attctcccgt ctaatgcgct tccctgtttt tacgtgatat
+     3121 tgtctgtaaa ggctgctatt ttcatttttg acgttaaaca aaaaatcgtt tcttatttgg
+     3181 attgggataa ataatatggc tgtttatttt gtaactggca agcttggctc gggcaagacg
+     3241 ctcgttagcg taggcaagat ccaggataag atcgtagctg ggtgcaaaat agcaactaat
+     3301 cttgatttaa ggcttcaaaa cctcccgcaa gtcgggaggt tcgctaaaac gcctcgcgtt
+     3361 cttagaatac cggataagcc ttctatatct gatttgcttg ctattgggcg cggtaatgat
+     3421 tcctacgatg aaaataaaaa cggcttgctt gttctcgatg agtgcggtac ttggtttaat
+     3481 acccgttctt ggaatgataa ggaaagacag ccgattattg attggtttct acatgctcgt
+     3541 aaattaggat gggatattat ttttcttgtt caggacttat ctattgttga taaacaggcg
+     3601 cgttctgcat tagctgaaca tgttgtttat tgtcgtcgtc tggacagaat tactttacct
+     3661 tttgtcggta ctttatattc tcttattact ggctcgaaaa tgcctctgcc taaattacat
+     3721 gttggcgttg ttaaatatgg cgattctcaa ttaagcccta ctgttgagcg ttggctttat
+     3781 actggtaaga atttgtataa cgcatatgat actaaacagg ctttttctag taattatgat
+     3841 tccggtgttt attcttattt aacgccttat ttatcacacg gtcggtattt caaaccatta
+     3901 aatttaggtc agaagatgaa attaactaaa atatatttga aaaagttttc tcgcgttctt
+     3961 tgtcttgcga ttggatttgc atcagcattt acatatagtt atataaccca acctaagccg
+     4021 gaggttaaaa aggtagtctc tcagacctat gattttgata aattcactat cgattcttct
+     4081 cagcgtctta atctcagcta ccgctacgtt ttcaaggatt ctaagggaaa attaattaat
+     4141 agcgacgatt tacagaagca aggttattca ctcacatata ttgatttatg tactgtttcc
+     4201 attaaaaaag gtaattcaaa tgaaattgtt aaatgtaatt aattttgttt tcttgatgtt
+     4261 tgtttcatca tcttcttttg ctcaggtaat tgaaatgaat aattcgcctc tgcgcgattt
+     4321 tgtaacttgg tattcaaagc aatcaggcga atccgttatt gtttctcccg atgtaaaagg
+     4381 tactgttact gtatattcat ctgacgttaa acctgaaaat ctacgcaatt tctttatttc
+     4441 tgttttacgt gcaaataatt ttgatatggt aggttctaac ccttccatta ttcagaagta
+     4501 taatccaaac aatcaggatt atattgatga attgccatca tctgataatc aggaatatga
+     4561 tgataattcc gctccttctg gtggtttctt tgttccgcaa aatgataatg ttactcaaac
+     4621 ttttaaaatt aataacgttc gggccaagga tttaatacga gtagtcgagc tctttgtaaa
+     4681 gtctaatact tctaaatcct caaatgtatt atctattgac ggctctaatc tattagttgt
+     4741 tagtgctcct aaagatattt tagataacct tcctcaattc ctttcaactg ttgatttgcc
+     4801 aactgaccag atattgattg agggtttgat atttgaggtt cagcaaggtg atgctttaga
+     4861 tttttcattt gctgctggct ctcagcgtgg cactgttgca ggcggtgtta atactgaccg
+     4921 cctcacctct gttttatctt ctgctggtgg ttcgttcggt atttttaatg gcgatgtttt
+     4981 agggctatca gttcgcgcat taaagactaa tagccattca aaaatattgt ctgtgccacg
+     5041 tattcttacg ctttcaggtc agaagggttc tatctctgtt ggccagaatg tcccttttat
+     5101 tactggtcgt gtgactggtg aatctgccaa tgtaaataat ccatttcaga cgattgagcg
+     5161 tcaaaatgta ggtatttcca tgagcgtttt tcctgttgca atggctggcg gtaatattgt
+     5221 tctggatatt accagcaagg ccgatagttt gagttcttct actcaggcaa gtgatgttat
+     5281 tactaatcaa agaagtattg ctacaacggt taatttgcgt gatggacaga ctcttttact
+     5341 cggtggcctc actgattata aaaacacttc tcaggattct ggcgtaccgt tcctgtctaa
+     5401 aatcccttta atcggcctcc tgtttagctc ccgctctgat tctaacgagg aaagcacgtt
+     5461 atacgtgctc gtcaaagcaa ccatagtacg cgccctgtag cggcgcatta agcgcggcgg
+     5521 gtgtggtggt tacgcgcagc gtgaccgcta cacttgccag cgccctagcg cccgctcctt
+     5581 tcgctttctt cccttccttt ctcgccacgt tcgccggctt tccccgtcaa gctctaaatc
+     5641 gggggctccc tttagggttc cgatttagtg ctttacggca cctcgacccc aaaaaacttg
+     5701 atttgggtga tggttcacgt agtgggccat cgccctgata gacggttttt cgccctttga
+     5761 cgttggagtc cacgttcttt aatagtggac tcttgttcca aactggaaca acactcaacc
+     5821 ctatctcggg ctattctttt gatttataag ggattttgcc gatttcggcc tattggttaa
+     5881 aaaatgagct gatttaacaa aaatttaacg cgaattttaa ttagaaaaac tcatcgagca
+     5941 tcaaatgaaa ctgcaattta ttcatatcag gattatcaat accatatttt tgaaaaagcc
+     6001 gtttctgtaa tgaaggagaa aactcaccga ggcagttcca taggatggca agatcctggt
+     6061 atcggtctgc gattccgact cgtccaacat caatacaacc tattaatttc ccctcgtcaa
+     6121 aaataaggtt atcaagtgag aaatcaccat gagtgacgac tgaatccggt gagaatggca
+     6181 aaagcttatg catttctttc cagacttgtt caacaggcca gccattacgc tcgtcatcaa
+     6241 aatcactcgc atcaaccaaa ccgttattca ttcgtgattg cgcctgagcg agacgaaata
+     6301 cgcgatcgct gttaaaagga caattacaaa caggaatcga atgcaaccgg cgcaggaaca
+     6361 ctgccagcgc atcaacaata ttttcacctg aatcaggata ttcttctaat acctggaatg
+     6421 ctgttttccc ggggatcgca gtggtgagta accatgcatc atcaggagta cggataaaat
+     6481 gcttgatggt cggaagaggc ataaattccg tcagccagtt tagtctgacc atctcatctg
+     6541 taacatcatt ggcaacgcta cctttgccat gtttcagaaa caactctggc gcatcgggct
+     6601 tcccatacaa tcgatagatt gtcgcacctg attgcccgac attatcgcga gcccatttat
+     6661 acccatataa atcagcatcc atgttggaat ttaatcgcgg cctcgagcaa gacgtttccc
+     6721 gttgaatatg gctcataaca ccccttgtat tactgtttat gtaagcagac agttttattg
+     6781 ttcatgatga tatattttta tcttgtgcaa tgtaacatca gagattttga gacacaacgt
+     6841 ggctttccca aaatattaac gtttacaatt taaatatttg cttatacaat cttcctgttt
+     6901 ttggggcttt tctgattatc aaccggggta catatgattg acatgctagt tttacgatta
+     6961 ccgttcatcg attctcttgt ttgctccaga ctctcaggca atgacctgat agcctttgta
+     7021 gacctctcaa aaatagctac cctctccggc attaatttat cagctagaac ggttgaatat
+     7081 catattgatg gtgatttgac tgtctccggc ctttctcacc cttttgagtc gttaccgacg
+     7141 cactactcag gcattgcatt caagatctat gagggttcta aaaattttta tccttgcgtt
+     7201 gaaataaagg cttctcccgc aaaagtatta cagggtcata atgtttttgg tacaaccgat
+     7261 ttagctttat gctctgaggc tttattgctt aattttgcta attctttgcc ttgcctgtat
+     7321 gatttattgg atgtt
+//

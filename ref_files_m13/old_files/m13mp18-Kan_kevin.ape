@@ -1,0 +1,833 @@
+LOCUS       m13mp18_Kan_kevi        7288 bp ds-DNA     circular     08-SEP-2021
+DEFINITION  Cloning vector M13mp18, complete sequence.
+KEYWORDS    .
+SOURCE      Cloning vector M13mp18
+  ORGANISM  Cloning vector M13mp18 other sequences; artificial sequences;
+            vectors.
+REFERENCE   1  (bases 1 to 7249)
+  AUTHORS   Stewart,F.J.
+  TITLE     Sequence of M13mp18 and M13mp19
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 7249)
+  AUTHORS   Slatko,B.E.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-OCT-2007) Research Department, New England Biolabs,
+            240 County Road, Ipswich, MA 01938, USA
+COMMENT     Corrects errors in M13mp18 GenBank entry X02513 and NEB sequence
+            file dated 18 Apr 1994 based on 2002 sequencing of complete M13mp18
+            phage genome at NEB (Stewart, F.J., unpublished).
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     gene            join(7147..7288,1..357)
+                     /gene="II"
+                     /locus_tag="II"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             join(7147..7288,1..357)
+                     /gene="II"
+                     /note="replication"
+                     /codon_start=1
+                     /product="pII"
+                     /translation="MIDMLVLRLPFIDSLVCSRLSGNDLIAFVDLSKIATLSGINLSA
+                     RTVEYHIDGDLTVSGLSHPFESLPTHYSGIAFKIYEGSKNFYPCVEIKASPAKVLQGH
+                     NVFGTTDLALCSEALLLNFANSLPCLYDLLDVNATTISRIDATFSARAPNENIAKQVI
+                     DHLRNVSNGQTKSTRSQNWESTVIWNETSRHRTLVAYLKHVELQHYIQQLSSKPSAKM
+                     TSYQKEQLKVLSNPDLLEFASGLVRFEARIKTRYLKSFGLPLNLFDAIRFASDYNSQG
+                     KDLIFDLWSFSFSELFKAFEGDSMNIYDDSAVLDAIQSKHFTITPSGKTSFAKASRYF
+                     GFYRRLVNEGYDSVALTMPRNSFWRYVSALVECGIPKSQLMNLSTCNNVVPLVRFINV
+                     DFSSQRPDWYNEPVLKIA"
+                     /locus_tag="pII"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     gene            498..749
+                     /gene="X"
+                     /locus_tag="X"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             498..749
+                     /gene="X"
+                     /note="replication"
+                     /codon_start=1
+                     /product="pX"
+                     /translation="MNIYDDSAVLDAIQSKHFTITPSGKTSFAKASRYFGFYRRLVNE
+                     GYDSVALTMPRNSFWRYVSALVECGIPKSQLMNLSTCNNVVPLVRFINVDFSSQRPDW
+                     YNEPVLKIA"
+                     /locus_tag="pX"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     gene            845..1108
+                     /gene="V"
+                     /locus_tag="V"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             845..1108
+                     /gene="V"
+                     /note="replication"
+                     /codon_start=1
+                     /product="pV"
+                     /translation="MIKVEIKPSQAQFTTRSGVSRQGKPYSLNEQLCYVDLGNEYPVL
+                     VKITLDEGQPAYAPGLYTVHLSSFKVGQFGSLMIDRLRLVPAK"
+                     /locus_tag="pV"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     gene            1110..1211
+                     /gene="VII"
+                     /locus_tag="VII"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             1110..1211
+                     /gene="VII"
+                     /note="minor coat protein"
+                     /codon_start=1
+                     /product="pVII"
+                     /translation="MEQVADFDTIYQAMIQISVVLCFALGIIAGGQR"
+                     /locus_tag="pVII"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     gene            1208..1306
+                     /gene="IX"
+                     /locus_tag="IX"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             1208..1306
+                     /gene="IX"
+                     /note="minor coat protein"
+                     /codon_start=1
+                     /product="pIX"
+                     /translation="MSVLVYSFASFVLGWCLRSGITYFTRLMETSS"
+                     /locus_tag="pIX"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     gene            1303..1524
+                     /gene="VIII"
+                     /locus_tag="VIII"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             1303..1524
+                     /gene="VIII"
+                     /note="major coat protein"
+                     /codon_start=1
+                     /product="pVIII"
+                     /translation="MKKSLVLKASVAVATLVPMLSFAAEGDDPAKAAFNSLQASATEY
+                     IGYAWAMVVVIVGATIGIKLFKKFTSKAS"
+                     /locus_tag="pVIII"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     gene            1584..2706
+                     /gene="III"
+                     /locus_tag="III"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             1584..2706
+                     /gene="III"
+                     /exception="alternative start codon"
+                     /note="minor coat protein"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="pIII"
+                     /translation="MKKLLFAIPLVVPFYSHSAETVESCLAKSHTENSFTNVWKDDKT
+                     LDRYANYEGCLWNATGVVVCTGDETQCYGTWVPIGLAIPENEGGGSEGGGSEGGGSEG
+                     GGTKPPEYGDTPIPGYTYINPLDGTYPPGTEQNPANPNPSLEESQPLNTFMFQNNRFR
+                     NRQGALTVYTGTVTQGTDPVKTYYQYTPVSSKAMYDAYWNGKFRDCAFHSGFNEDLFV
+                     CEYQGQSSDLPQPPVNAGGGSGGGSGGGSEGGGSEGGGSEGGGSEGGGSGGGSGSGDF
+                     DYEKMANANKGAMTENADENALQSDAKGKLDSVATDYGAAIDGFIGDVSGLANGNGAT
+                     GDFAGSNSQMAQVGDGDNSPLMNNFRQYLPSLPQSVECRPFVFGAGKPYEFSIDCDKI
+                     NLFRGVFAFLLYVATFMYVFSTFANILRNKES"
+                     /locus_tag="pIII"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     gene            2861..3065
+                     /gene="VI"
+                     /locus_tag="VI"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             2861..3065
+                     /gene="VI"
+                     /note="minor coat protein"
+                     /codon_start=1
+                     /product="pVI"
+                     /translation="MPVLLGIPLLLRFLGFLLVTLFGYLLTFLKKGFGKIAIAISLFL
+                     ALIIGLNSILVGYLSDISAQLPSDFVQGVQLILPSNALPCFYVILSVKAAIFIFDVKQ
+                     KIVSYLDWDK"
+                     /locus_tag="pVI"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     gene            3201..3214
+                     /gene="I"
+                     /locus_tag="I"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             3201..3214
+                     /gene="I"
+                     /note="phage assembly"
+                     /codon_start=1
+                     /product="pI"
+                     /translation="MAVYFVTGKLGSGKTLVSVGKIQDKIVAGCKIATNLDLRLQNLP
+                     QVGRFAKTPRVLRIPDKPSISDLLAIGRGNDSYDENKNGLLVLDECGTWFNTRSWNDK
+                     ERQPIIDWFLHARKLGWDIIFLVQDLSIVDKQARSALAEHVVYCRRLDRITLPFVGTL
+                     YSLITGSKMPLPKLHVGVVKYGDSQLSPTVERWLYTGKNLYNAYDTKQAFSSNYDSGV
+                     YSYLTPYLSHGRYFKPLNLGQKMKLTKIYLKKFSRVLCLAIGFASAFTYSYITQPKPE
+                     VKKVVSQTYDFDKFTIDSSQRLNLSYRYVFKDSKGKLINSDDLQKQGYSLTYIDLCTV
+                     SIKKGNSNEIVKCN"
+                     /locus_tag="pI"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     gene            3921..4049
+                     /gene="XI"
+                     /note="also called I*"
+                     /locus_tag="XI"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             3921..4049
+                     /gene="XI"
+                     /note="phage assembly"
+                     /codon_start=1
+                     /product="pXI"
+                     /translation="MKLTKIYLKKFSRVLCLAIGFASAFTYSYITQPKPEVKKVVSQT
+                     YDFDKFTIDSSQRLNLSYRYVFKDSKGKLINSDDLQKQGYSLTYIDLCTVSIKKGNSN
+                     EIVKCN"
+                     /locus_tag="pXI"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     gene            4225..4625
+                     /gene="IV"
+                     /locus_tag="IV"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             4225..4625
+                     /gene="IV"
+                     /note="phage assembly"
+                     /codon_start=1
+                     /product="pIV"
+                     /translation="MKLLNVINFVFLMFVSSSSFAQVIEMNNSPLRDFVTWYSKQSGE
+                     SVIVSPDVKGTVTVYSSDVKPENLRNFFISVLRANNFDMVGSNPSIIQKYNPNNQDYI
+                     DELPSSDNQEYDDNSAPSGGFFVPQNDNVTQTFKINNVRAKDLIRVVELFVKSNTSKS
+                     SNVLSIDGSNLLVVSAPKDILDNLPQFLSTVDLPTDQILIEGLIFEVQQGDALDFSFA
+                     AGSQRGTVAGGVNTDRLTSVLSSAGGSFGIFNGDVLGLSVRALKTNSHSKILSVPRIL
+                     TLSGQKGSISVGQNVPFITGRVTGESANVNNPFQTIERQNVGISMSVFPVAMAGGNIV
+                     LDITSKADSLSSSTQASDVITNQRSIATTVNLRDGQTLLLGGLTDYKNTSQDSGVPFL
+                     SKIPLIGLLFSSRSDSNEESTLYVLVKATIVRAL"
+                     /locus_tag="pIV"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     gene            complement(5874..6689)
+                     /gene="aph(3')-Ia"
+                     /locus_tag="aph(3')-Ia"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             complement(5874..6689)
+                     /gene="aph(3')-Ia"
+                     /note="kanR (confers resistance to kanamycin)"
+                     /codon_start=1
+                     /product="aminoglycoside phosphotransferase from Tn903"
+                     /translation="MSHIQRETSCSRPRLNSNMDADLYGYKWARDNVGQSGATIYRLY
+                     GKPDAPELFLKHGKGSVANDVTDEMVRLNWLTEFMPLPTIKHFIRTPDDAWLLTTAIP
+                     GKTAFQVLEEYPDSGENIVDALAVFLRRLHSIPVCNCPFNSDRVFRLAQAQSRMNNGL
+                     VDASDFDDERNGWPVEQVWKEMHKLLPFSPDSVVTHGDFSLDNLIFDEGKLIGCIDVG
+                     RVGIADRYQDLAILWNCLGEFSPSLQKRLFQKYGIDNPDMNKLQFHLMLDEFF"
+                     /locus_tag="aminoglycoside phosphotransferase from Tn903"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     gene            441..749
+                     /gene="II"
+                     /locus_tag="II(1)"
+                     /ApEinfo_label="II"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             441..749
+                     /gene="II"
+                     /note="replication"
+                     /codon_start=1
+                     /product="pII"
+                     /translation="MIDMLVLRLPFIDSLVCSRLSGNDLIAFVDLSKIATLSGINLSA
+                     RTVEYHIDGDLTVSGLSHPFESLPTHYSGIAFKIYEGSKNFYPCVEIKASPAKVLQGH
+                     NVFGTTDLALCSEALLLNFANSLPCLYDLLDVNATTISRIDATFSARAPNENIAKQVI
+                     DHLRNVSNGQTKSTRSQNWESTVIWNETSRHRTLVAYLKHVELQHYIQQLSSKPSAKM
+                     TSYQKEQLKVLSNPDLLEFASGLVRFEARIKTRYLKSFGLPLNLFDAIRFASDYNSQG
+                     KDLIFDLWSFSFSELFKAFEGDSMNIYDDSAVLDAIQSKHFTITPSGKTSFAKASRYF
+                     GFYRRLVNEGYDSVALTMPRNSFWRYVSALVECGIPKSQLMNLSTCNNVVPLVRFINV
+                     DFSSQRPDWYNEPVLKIA"
+                     /locus_tag="pII(1)"
+                     /ApEinfo_label="pII"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    358..440
+                     /locus_tag="alt_promX"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="cyan"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     gene            6887..7065
+                     /gene="II"
+                     /locus_tag="II(2)"
+                     /ApEinfo_label="II"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             6887..7065
+                     /gene="II"
+                     /note="replication"
+                     /codon_start=1
+                     /product="pII"
+                     /translation="MIDMLVLRLPFIDSLVCSRLSGNDLIAFVDLSKIATLSGINLSA
+                     RTVEYHIDGDLTVSGLSHPFESLPTHYSGIAFKIYEGSKNFYPCVEIKASPAKVLQGH
+                     NVFGTTDLALCSEALLLNFANSLPCLYDLLDVNATTISRIDATFSARAPNENIAKQVI
+                     DHLRNVSNGQTKSTRSQNWESTVIWNETSRHRTLVAYLKHVELQHYIQQLSSKPSAKM
+                     TSYQKEQLKVLSNPDLLEFASGLVRFEARIKTRYLKSFGLPLNLFDAIRFASDYNSQG
+                     KDLIFDLWSFSFSELFKAFEGDSMNIYDDSAVLDAIQSKHFTITPSGKTSFAKASRYF
+                     GFYRRLVNEGYDSVALTMPRNSFWRYVSALVECGIPKSQLMNLSTCNNVVPLVRFINV
+                     DFSSQRPDWYNEPVLKIA"
+                     /locus_tag="pII(2)"
+                     /ApEinfo_label="pII"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    7066..7146
+                     /locus_tag="alt_prom_II'"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="cyan"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     gene            4131..4247
+                     /gene="I"
+                     /locus_tag="I(1)"
+                     /ApEinfo_label="I"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             4131..4247
+                     /gene="I"
+                     /note="phage assembly"
+                     /codon_start=1
+                     /product="pI"
+                     /translation="MAVYFVTGKLGSGKTLVSVGKIQDKIVAGCKIATNLDLRLQNLP
+                     QVGRFAKTPRVLRIPDKPSISDLLAIGRGNDSYDENKNGLLVLDECGTWFNTRSWNDK
+                     ERQPIIDWFLHARKLGWDIIFLVQDLSIVDKQARSALAEHVVYCRRLDRITLPFVGTL
+                     YSLITGSKMPLPKLHVGVVKYGDSQLSPTVERWLYTGKNLYNAYDTKQAFSSNYDSGV
+                     YSYLTPYLSHGRYFKPLNLGQKMKLTKIYLKKFSRVLCLAIGFASAFTYSYITQPKPE
+                     VKKVVSQTYDFDKFTIDSSQRLNLSYRYVFKDSKGKLINSDDLQKQGYSLTYIDLCTV
+                     SIKKGNSNEIVKCN"
+                     /locus_tag="pI(1)"
+                     /ApEinfo_label="pI"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     gene            4131..4247
+                     /gene="XI"
+                     /note="also called I*"
+                     /locus_tag="XI(1)"
+                     /ApEinfo_label="XI"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             4131..4247
+                     /gene="XI"
+                     /note="phage assembly"
+                     /codon_start=1
+                     /product="pXI"
+                     /translation="MKLTKIYLKKFSRVLCLAIGFASAFTYSYITQPKPEVKKVVSQT
+                     YDFDKFTIDSSQRLNLSYRYVFKDSKGKLINSDDLQKQGYSLTYIDLCTVSIKKGNSN
+                     EIVKCN"
+                     /locus_tag="pXI(1)"
+                     /ApEinfo_label="pXI"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    4050..4130
+                     /locus_tag="alt_prom_I"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="cyan"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     gene            831..833
+                     /gene="X"
+                     /locus_tag="X(1)"
+                     /ApEinfo_label="X"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             831..833
+                     /gene="X"
+                     /note="replication"
+                     /codon_start=1
+                     /product="pX"
+                     /translation="MNIYDDSAVLDAIQSKHFTITPSGKTSFAKASRYFGFYRRLVNE
+                     GYDSVALTMPRNSFWRYVSALVECGIPKSQLMNLSTCNNVVPLVRFINVDFSSQRPDW
+                     YNEPVLKIA"
+                     /locus_tag="pX(1)"
+                     /ApEinfo_label="pX"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     gene            831..833
+                     /gene="II"
+                     /locus_tag="II(3)"
+                     /ApEinfo_label="II"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             831..833
+                     /gene="II"
+                     /note="replication"
+                     /codon_start=1
+                     /product="pII"
+                     /translation="MIDMLVLRLPFIDSLVCSRLSGNDLIAFVDLSKIATLSGINLSA
+                     RTVEYHIDGDLTVSGLSHPFESLPTHYSGIAFKIYEGSKNFYPCVEIKASPAKVLQGH
+                     NVFGTTDLALCSEALLLNFANSLPCLYDLLDVNATTISRIDATFSARAPNENIAKQVI
+                     DHLRNVSNGQTKSTRSQNWESTVIWNETSRHRTLVAYLKHVELQHYIQQLSSKPSAKM
+                     TSYQKEQLKVLSNPDLLEFASGLVRFEARIKTRYLKSFGLPLNLFDAIRFASDYNSQG
+                     KDLIFDLWSFSFSELFKAFEGDSMNIYDDSAVLDAIQSKHFTITPSGKTSFAKASRYF
+                     GFYRRLVNEGYDSVALTMPRNSFWRYVSALVECGIPKSQLMNLSTCNNVVPLVRFINV
+                     DFSSQRPDWYNEPVLKIA"
+                     /locus_tag="pII(3)"
+                     /ApEinfo_label="pII"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    750..830
+                     /locus_tag="alt_prom_V"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="cyan"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     gene            2788..2858
+                     /gene="III"
+                     /locus_tag="III(1)"
+                     /ApEinfo_label="III"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             2788..2858
+                     /gene="III"
+                     /exception="alternative start codon"
+                     /note="minor coat protein"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="pIII"
+                     /translation="MKKLLFAIPLVVPFYSHSAETVESCLAKSHTENSFTNVWKDDKT
+                     LDRYANYEGCLWNATGVVVCTGDETQCYGTWVPIGLAIPENEGGGSEGGGSEGGGSEG
+                     GGTKPPEYGDTPIPGYTYINPLDGTYPPGTEQNPANPNPSLEESQPLNTFMFQNNRFR
+                     NRQGALTVYTGTVTQGTDPVKTYYQYTPVSSKAMYDAYWNGKFRDCAFHSGFNEDLFV
+                     CEYQGQSSDLPQPPVNAGGGSGGGSGGGSEGGGSEGGGSEGGGSEGGGSGGGSGSGDF
+                     DYEKMANANKGAMTENADENALQSDAKGKLDSVATDYGAAIDGFIGDVSGLANGNGAT
+                     GDFAGSNSQMAQVGDGDNSPLMNNFRQYLPSLPQSVECRPFVFGAGKPYEFSIDCDKI
+                     NLFRGVFAFLLYVATFMYVFSTFANILRNKES"
+                     /locus_tag="pIII(1)"
+                     /ApEinfo_label="pIII"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    2707..2787
+                     /locus_tag="alt_prom_VI"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="cyan"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     gene            3147..3199
+                     /gene="VI"
+                     /locus_tag="VI(1)"
+                     /ApEinfo_label="VI"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             3147..3199
+                     /gene="VI"
+                     /note="minor coat protein"
+                     /codon_start=1
+                     /product="pVI"
+                     /translation="MPVLLGIPLLLRFLGFLLVTLFGYLLTFLKKGFGKIAIAISLFL
+                     ALIIGLNSILVGYLSDISAQLPSDFVQGVQLILPSNALPCFYVILSVKAAIFIFDVKQ
+                     KIVSYLDWDK"
+                     /locus_tag="pVI(1)"
+                     /ApEinfo_label="pVI"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    3066..3146
+                     /locus_tag="alt_prom_I(1)"
+                     /ApEinfo_label="alt_prom_I"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="cyan"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     gene            3296..4049
+                     /gene="I"
+                     /locus_tag="I(2)"
+                     /ApEinfo_label="I"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             3296..4049
+                     /gene="I"
+                     /note="phage assembly"
+                     /codon_start=1
+                     /product="pI"
+                     /translation="MAVYFVTGKLGSGKTLVSVGKIQDKIVAGCKIATNLDLRLQNLP
+                     QVGRFAKTPRVLRIPDKPSISDLLAIGRGNDSYDENKNGLLVLDECGTWFNTRSWNDK
+                     ERQPIIDWFLHARKLGWDIIFLVQDLSIVDKQARSALAEHVVYCRRLDRITLPFVGTL
+                     YSLITGSKMPLPKLHVGVVKYGDSQLSPTVERWLYTGKNLYNAYDTKQAFSSNYDSGV
+                     YSYLTPYLSHGRYFKPLNLGQKMKLTKIYLKKFSRVLCLAIGFASAFTYSYITQPKPE
+                     VKKVVSQTYDFDKFTIDSSQRLNLSYRYVFKDSKGKLINSDDLQKQGYSLTYIDLCTV
+                     SIKKGNSNEIVKCN"
+                     /locus_tag="pI(2)"
+                     /ApEinfo_label="pI"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    3215..3295
+                     /locus_tag="alt_prom_I_prime"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="cyan"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     gene            4707..5505
+                     /gene="IV"
+                     /locus_tag="IV(1)"
+                     /ApEinfo_label="IV"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     CDS             4707..5505
+                     /gene="IV"
+                     /note="phage assembly"
+                     /codon_start=1
+                     /product="pIV"
+                     /translation="MKLLNVINFVFLMFVSSSSFAQVIEMNNSPLRDFVTWYSKQSGE
+                     SVIVSPDVKGTVTVYSSDVKPENLRNFFISVLRANNFDMVGSNPSIIQKYNPNNQDYI
+                     DELPSSDNQEYDDNSAPSGGFFVPQNDNVTQTFKINNVRAKDLIRVVELFVKSNTSKS
+                     SNVLSIDGSNLLVVSAPKDILDNLPQFLSTVDLPTDQILIEGLIFEVQQGDALDFSFA
+                     AGSQRGTVAGGVNTDRLTSVLSSAGGSFGIFNGDVLGLSVRALKTNSHSKILSVPRIL
+                     TLSGQKGSISVGQNVPFITGRVTGESANVNNPFQTIERQNVGISMSVFPVAMAGGNIV
+                     LDITSKADSLSSSTQASDVITNQRSIATTVNLRDGQTLLLGGLTDYKNTSQDSGVPFL
+                     SKIPLIGLLFSSRSDSNEESTLYVLVKATIVRAL"
+                     /locus_tag="pIV(1)"
+                     /ApEinfo_label="pIV"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 0.5 0 1 2 0 0 -1 0
+                     -0.5} {} 0} width 5 offset 0"
+     misc_feature    4626..4706
+                     /locus_tag="alt_prom_IV"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="cyan"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    831..844
+                     /locus_tag="rbsV"
+                     /ApEinfo_fwdcolor="#00ff00"
+                     /ApEinfo_revcolor="#00ff00"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    1098..1109
+                     /locus_tag="rbsVII"
+                     /ApEinfo_fwdcolor="#00ff00"
+                     /ApEinfo_revcolor="#00ff00"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    1197..1207
+                     /locus_tag="rbsIX"
+                     /ApEinfo_fwdcolor="#00ff00"
+                     /ApEinfo_revcolor="#00ff00"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    1289..1302
+                     /locus_tag="rbsVIII"
+                     /ApEinfo_fwdcolor="#00ff00"
+                     /ApEinfo_revcolor="#00ff00"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    1540..1570
+                     /locus_tag="terminator_smith_etal"
+                     /ApEinfo_fwdcolor="#ff0000"
+                     /ApEinfo_revcolor="#ff0000"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    1187..1192
+                     /locus_tag="-10box_for_VIII"
+                     /ApEinfo_fwdcolor="#0000ff"
+                     /ApEinfo_revcolor="#0000ff"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    1533..1539
+                     /locus_tag="-10_box_for_III"
+                     /ApEinfo_fwdcolor="#0000ff"
+                     /ApEinfo_revcolor="#0000ff"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    1570..1583
+                     /locus_tag="rbsIII"
+                     /ApEinfo_fwdcolor="#00ff00"
+                     /ApEinfo_revcolor="#00ff00"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    2846..2860
+                     /locus_tag="rbsVI"
+                     /ApEinfo_fwdcolor="#0000ff"
+                     /ApEinfo_revcolor="#0000ff"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    3187..3200
+                     /locus_tag="rbsI"
+                     /ApEinfo_fwdcolor="#00ff00"
+                     /ApEinfo_revcolor="#00ff00"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    3320..3346
+                     /locus_tag="leaky_term_before_gene1_rho_dependant"
+                     /ApEinfo_fwdcolor="#ff0000"
+                     /ApEinfo_revcolor="#ff0000"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    4210..4224
+                     /locus_tag="rbsIV"
+                     /ApEinfo_fwdcolor="#00ff00"
+                     /ApEinfo_revcolor="#00ff00"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    5493..5873
+                     /locus_tag="m13 rep origin"
+                     /ApEinfo_fwdcolor="#7e7e7e"
+                     /ApEinfo_revcolor="#8c898e"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    5504..5581
+                     /locus_tag="terminator_A"
+                     /ApEinfo_fwdcolor="#ff0000"
+                     /ApEinfo_revcolor="#ff0000"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    5629..5683
+                     /locus_tag="terminator B"
+                     /ApEinfo_fwdcolor="#ff0000"
+                     /ApEinfo_revcolor="#ff0000"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    5696..5755
+                     /locus_tag="terminator C"
+                     /ApEinfo_fwdcolor="#ff0000"
+                     /ApEinfo_revcolor="#ff0000"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    5770..5816
+                     /locus_tag="terminator D/E"
+                     /ApEinfo_fwdcolor="#ff0000"
+                     /ApEinfo_revcolor="#ff0000"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    6690..6801
+                     /locus_tag="prom_kanR"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="cyan"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    6838..6844
+                     /locus_tag="-10_box_II"
+                     /ApEinfo_fwdcolor="#0000ff"
+                     /ApEinfo_revcolor="#0000ff"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    6872..6886
+                     /locus_tag="rbsII"
+                     /ApEinfo_fwdcolor="#00ff00"
+                     /ApEinfo_revcolor="#00ff00"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    6887..6895
+                     /locus_tag="rbsII'"
+                     /ApEinfo_fwdcolor="#00ff00"
+                     /ApEinfo_revcolor="#00ff00"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+ORIGIN
+        1 aatgctacta ctattagtag aattgatgcc accttttcag ctcgcgcccc aaatgaaaat
+       61 atagctaaac aggttattga ccatttgcga aatgtatcta atggtcaaac taaatctact
+      121 cgttcgcaga attgggaatc aactgttata tggaatgaaa cttccagaca ccgtacttta
+      181 gttgcatatt taaaacatgt tgagctacag cattatattc agcaattaag ctctaagcca
+      241 tccgcaaaaa tgacctctta tcaaaaggag caattaaagg tactctctaa tcctgacctg
+      301 ttggagtttg cttccggtct ggttcgcttt gaagctcgaa ttaaaacgcg atatttgAAG
+      361 TCTTTCGGGC TTCCTCTTAA CCTCTTTGAT GCTATCCGCT TTGCTTCTGA CTACAACAGT
+      421 CAGGGTAAAG ACCTGATTat tttgatttat ggtcattctc gttttctgaa ctgtttaaag
+      481 catttgaggg ggattcaatg aatatttatg acgattccgc agtattggac gctatccagt
+      541 ctaaacattt tactattacc ccctctggca aaacttcttt tgcaaaagcc tctcgctatt
+      601 ttggttttta tcgtcgtctg gtaaacgagg gttatgatag tgttgctctt actatgcctc
+      661 gtaattcctt ttggcgttat gtatctgcat tagttgaatg tggtattcct aaatctcaac
+      721 tgatgaatct ttctacctgt aataatgttG TTCCGTTAGT TCGTTTTATT AACGTAGATT
+      781 TCAGCTCCCA ACGTCCTGAC TGGTACAATG AGCCCGTTCT TAAAATCGCA taaggtaatt
+      841 cacaatgatt aaagttgaaa ttaaaccatc tcaagcccaa tttactactc gttctggtgt
+      901 ttctcgtcag ggcaagcctt attcactgaa tgagcagctt tgttacgttg atttgggtaa
+      961 tgaatatccg gttcttgtca agattactct tgatgaaggt cagccagcct atgcgcctgg
+     1021 tctgtacacc gttcatctgt cctctttcaa agttggtcag ttcggttccc ttatgattga
+     1081 ccgtctgcgc ctcgttccgg ctaagtaaca tggagcaggt cgcggatttc gacacaattt
+     1141 atcaggcgat gatacaaatc tccgttgtac tttgtttcgc gcttggtata atcgctgggg
+     1201 gtcaaagatg agtgttttag tgtattcttt tgcctctttc gttttaggtt ggtgccttcg
+     1261 tagtggcatt acgtatttta cccgtttaat ggaaacttcc tcatgaaaaa gtctttagtc
+     1321 ctcaaagcct ctgtagccgt tgctaccctc gttccgatgc tgtctttcgc tgctgagggt
+     1381 gacgatcccg caaaagcggc ctttaactcc ctgcaagcct cagcgaccga atatatcggt
+     1441 tatgcgtggg cgatggttgt tgtcattgtc ggcgcaacta tcggtatcaa gctgtttaag
+     1501 aaattcacct cgaaagcaag ctgataaacc gatacaatta tnataaggct ccttttggag
+     1561 cctttttttt ggagattttc aacgtgaaaa aattattatt cgcaattcct ttagttgttc
+     1621 ctttctattc tcactccgct gaaactgttg aaagttgttt agcaaaatcc catacagaaa
+     1681 attcatttac taacgtctgg aaagacgaca aaactttaga tcgttacgct aactatgagg
+     1741 gctgtctgtg gaatgctaca ggcgttgtag tttgtactgg tgacgaaact cagtgttacg
+     1801 gtacatgggt tcctattggg cttgctatcc ctgaaaatga gggtggtggc tctgagggtg
+     1861 gcggttctga gggtggcggt tctgagggtg gcggtactaa acctcctgag tacggtgata
+     1921 cacctattcc gggctatact tatatcaacc ctctcgacgg cacttatccg cctggtactg
+     1981 agcaaaaccc cgctaatcct aatccttctc ttgaggagtc tcagcctctt aatactttca
+     2041 tgtttcagaa taataggttc cgaaataggc agggggcatt aactgtttat acgggcactg
+     2101 ttactcaagg cactgacccc gttaaaactt attaccagta cactcctgta tcatcaaaag
+     2161 ccatgtatga cgcttactgg aacggtaaat tcagagactg cgctttccat tctggcttta
+     2221 atgaggattt atttgtttgt gaatatcaag gccaatcgtc tgacctgcct caacctcctg
+     2281 tcaatgctgg cggcggctct ggtggtggtt ctggtggcgg ctctgagggt ggtggctctg
+     2341 agggtggcgg ttctgagggt ggcggctctg agggaggcgg ttccggtggt ggctctggtt
+     2401 ccggtgattt tgattatgaa aagatggcaa acgctaataa gggggctatg accgaaaatg
+     2461 ccgatgaaaa cgcgctacag tctgacgcta aaggcaaact tgattctgtc gctactgatt
+     2521 acggtgctgc tatcgatggt ttcattggtg acgtttccgg ccttgctaat ggtaatggtg
+     2581 ctactggtga ttttgctggc tctaattccc aaatggctca agtcggtgac ggtgataatt
+     2641 cacctttaat gaataatttc cgtcaatatt taccttccct ccctcaatcg gttgaatgtc
+     2701 gcccttTTGT CTTTGGCGCT GGGAAACCGT ACGAGTTTTC TATTGATTGT GACAAGATCA
+     2761 ACCTCTTTCG TGGTGTCTTT GCGTTTCttt tatatgttgc cacctttatg tatgtatttt
+     2821 ctacgtttgc taacatactg cgtaataagg agtcttaatc atgccagttc ttttgggtat
+     2881 tccgttatta ttgcgtttcc tcggtttcct tctggtaact ttgttcggct atctgcttac
+     2941 ttttcttaaa aagggcttcg gtaagatagc tattgctatt tcattgtttc ttgctcttat
+     3001 tattgggctt aactcaattc ttgtgggtta tctctctgat attagcgctc aattaccctc
+     3061 tgactTTGTT CAGGGTGTTC AGTTAATTCT CCCGTCTAAT GCGCTTCCCT GTTTTTACGT
+     3121 GATATTGTCT GTAAAGGCTG CTATTTtcat ttttgacgtt aaacaaaaaa tcgtttctta
+     3181 tttggattgg gataaataat atggctgttt atttTGTAAC TGGCAAGCTT GGCTCGGGCA
+     3241 AGACGCTCGT TAGCGTAGGC AAGATCCAGG ATAAGATCGT AGCTGGGTGC AAAATagcaa
+     3301 ctaatcttga tttaaggctt caaaacctcc cgcaagtcgg gaggttcgct aaaacgcctc
+     3361 gcgttcttag aataccggat aagccttcta tatctgattt gcttgctatt gggcgcggta
+     3421 atgattccta cgatgaaaat aaaaacggct tgcttgttct cgatgagtgc ggtacttggt
+     3481 ttaatacccg ttcttggaat gataaggaaa gacagccgat tattgattgg tttctacatg
+     3541 ctcgtaaatt aggatgggat attatttttc ttgttcagga cttatctatt gttgataaac
+     3601 aggcgcgttc tgcattagct gaacatgttg tttattgtcg tcgtctggac agaattactt
+     3661 taccttttgt cggtacttta tattctctta ttactggctc gaaaatgcct ctgcctaaat
+     3721 tacatgttgg cgttgttaaa tatggcgatt ctcaattaag ccctactgtt gagcgttggc
+     3781 tttatactgg taagaatttg tataacgcat atgatactaa acaggctttt tctagtaatt
+     3841 atgattccgg tgtttattct tatttaacgc cttatttatc acacggtcgg tatttcaaac
+     3901 cattaaattt aggtcagaag atgaaattaa ctaaaatata tttgaaaaag ttttctcgcg
+     3961 ttctttgtct tgcgattgga tttgcatcag catttacata tagttatata acccaaccta
+     4021 agccggaggt taaaaaggta gtctctcagA CCTATGATTT TGATAAATTC ACTATCGATT
+     4081 CTTCTCAGCG TCTTAATCTC AGCTACCGCT ACGTTTTCAA GGATTCTAAG ggaaaattaa
+     4141 ttaatagcga cgatttacag aagcaaggtt attcactcac atatattgat ttatgtactg
+     4201 tttccattaa aaaaggtaat tcaaatgaaa ttgttaaatg taattaattt tgttttcttg
+     4261 atgtttgttt catcatcttc ttttgctcag gtaattgaaa tgaataattc gcctctgcgc
+     4321 gattttgtaa cttggtattc aaagcaatca ggcgaatccg ttattgtttc tcccgatgta
+     4381 aaaggtactg ttactgtata ttcatctgac gttaaacctg aaaatctacg caatttcttt
+     4441 atttctgttt tacgtgcaaa taattttgat atggtaggtt ctaacccttc cattattcag
+     4501 aagtataatc caaacaatca ggattatatt gatgaattgc catcatctga taatcaggaa
+     4561 tatgatgata attccgctcc ttctggtggt ttctttgttc cgcaaaatga taatgttact
+     4621 caaacTTTTA AAATTAATAA CGTTCGGGCC AAGGATTTAA TACGAGTAGT CGAGCTCTTT
+     4681 GTAAAGTCTA ATACTTCTAA ATCCTCaaat gtattatcta ttgacggctc taatctatta
+     4741 gttgttagtg ctcctaaaga tattttagat aaccttcctc aattcctttc aactgttgat
+     4801 ttgccaactg accagatatt gattgagggt ttgatatttg aggttcagca aggtgatgct
+     4861 ttagattttt catttgctgc tggctctcag cgtggcactg ttgcaggcgg tgttaatact
+     4921 gaccgcctca cctctgtttt atcttctgct ggtggttcgt tcggtatttt taatggcgat
+     4981 gttttagggc tatcagttcg cgcattaaag actaatagcc attcaaaaat attgtctgtg
+     5041 ccacgtattc ttacgctttc aggtcagaag ggttctatct ctgttggcca gaatgtccct
+     5101 tttattactg gtcgtgtgac tggtgaatct gccaatgtaa ataatccatt tcagacgatt
+     5161 gagcgtcaaa atgtaggtat ttccatgagc gtttttcctg ttgcaatggc tggcggtaat
+     5221 attgttctgg atattaccag caaggccgat agtttgagtt cttctactca ggcaagtgat
+     5281 gttattacta atcaaagaag tattgctaca acggttaatt tgcgtgatgg acagactctt
+     5341 ttactcggtg gcctcactga ttataaaaac acttctcagg attctggcgt accgttcctg
+     5401 tctaaaatcc ctttaatcgg cctcctgttt agctcccgct ctgattctaa cgaggaaagc
+     5461 acgttatacg tgctcgtcaa agcaaccata gtacgcgccc tgtagcggcg cattaagcgc
+     5521 ggcgggtgtg gtggttacgc gcagcgtgac cgctacactt gccagcgccc tagcgcccgc
+     5581 tcctttcgct ttcttccctt cctttctcgc cacgttcgcc ggctttcccc gtcaagctct
+     5641 aaatcggggg ctccctttag ggttccgatt tagtgcttta cggcacctcg accccaaaaa
+     5701 acttgatttg ggtgatggtt cacgtagtgg gccatcgccc tgatagacgg tttttcgccc
+     5761 tttgacgttg gagtccacgt tctttaatag tggactcttg ttccaaactg gaacaacact
+     5821 caaccctatc tcgggctatt cttttgattt ataagggatt ttgccgattt cggttagaaa
+     5881 aactcatcga gcatcaaatg aaactgcaat ttattcatat caggattatc aataccatat
+     5941 ttttgaaaaa gccgtttctg taatgaagga gaaaactcac cgaggcagtt ccataggatg
+     6001 gcaagatcct ggtatcggtc tgcgattccg actcgtccaa catcaataca acctattaat
+     6061 ttcccctcgt caaaaataag gttatcaagt gagaaatcac catgagtgac gactgaatcc
+     6121 ggtgagaatg gcaaaagctt atgcatttct ttccagactt gttcaacagg ccagccatta
+     6181 cgctcgtcat caaaatcact cgcatcaacc aaaccgttat tcattcgtga ttgcgcctga
+     6241 gcgagacgaa atacgcgatc gctgttaaaa ggacaattac aaacaggaat cgaatgcaac
+     6301 cggcgcagga acactgccag cgcatcaaca atattttcac ctgaatcagg atattcttct
+     6361 aatacctgga atgctgtttt cccggggatc gcagtggtga gtaaccatgc atcatcagga
+     6421 gtacggataa aatgcttgat ggtcggaaga ggcataaatt ccgtcagcca gtttagtctg
+     6481 accatctcat ctgtaacatc attggcaacg ctacctttgc catgtttcag aaacaactct
+     6541 ggcgcatcgg gcttcccata caatcgatag attgtcgcac ctgattgccc gacattatcg
+     6601 cgagcccatt tatacccata taaatcagca tccatgttgg aatttaatcg cggcctcgag
+     6661 caagacgttt cccgttgaat atggctcata acaccccttg tattactgtt tatgtaagca
+     6721 gacagtttta ttgttcatga tgatatattt ttatcttgtg caatgtaaca tcagagattt
+     6781 tgagacacaa cgtggctttc ccaaaatatt aacgtttaca atttaaatat ttgcttatac
+     6841 aatcttcctg tttttggggc ttttctgatt atcaaccggg gtacatatga ttgacatgct
+     6901 agttttacga ttaccgttca tcgattctct tgtttgctcc agactctcag gcaatgacct
+     6961 gatagccttt gtagatctct caaaaatagc taccctctcc ggcattaatt tatcagctag
+     7021 aacggttgaa tatcatattg atggtgattt gactgtctcc ggcctTTCTC ACCCTTTTGA
+     7081 GTCGTTACCG ACGCACTACT CAGGCATTGC ATTCAAGATC TATGAGGGTT CTAAAAATTT
+     7141 TTATCCttgc gttgaaataa aggcttctcc cgcaaaagta ttacagggtc ataatgtttt
+     7201 tggtacaacc gatttagctt tatgctctga ggctttattg cttaattttg ctaattcttt
+     7261 gccttgcctg tatgatttat tggatgtt   
+//

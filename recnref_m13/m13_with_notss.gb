@@ -1,0 +1,483 @@
+LOCUS       manually_annotat        6407 bp ds-DNA     circular     25-MAY-2021
+DEFINITION  Enterobacteria phage M13 isolate WT variety Rutgers, complete
+            genome.
+ACCESSION   JX412914
+VERSION     JX412914.1
+KEYWORDS    .
+SOURCE      Escherichia virus M13
+  ORGANISM  Escherichia virus M13 Viruses; Monodnaviria; Loebvirae;
+            Hofneiviricota; Faserviricetes; Tubulavirales; Inoviridae;
+            Inovirus.
+REFERENCE   1  (bases 1 to 6407)
+  AUTHORS   Messing,J. and Ayer,J.J.
+  TITLE     Phage M13, WT variety Rutgers
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 6407)
+  AUTHORS   Messing,J. and Ayer,J.J.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JUL-2012) Waksman Institute of Microbiology, Rutgers,
+            the State University of New Jersey, 190 Frelinghuysen Road,
+            Piscataway, NJ 08854, USA
+COMMENT     ##Assembly-Data-START## Assembly Method       :: DNASTAR Lasergene
+            SeqMan Pro v. 8.0.2(13) Sequencing Technology :: AB3730x1 DNA
+            Analyzer ##Assembly-Data-END##
+COMMENT     ApEinfo:methylated:1
+FEATURES             Location/Qualifiers
+     source          1..6407
+                     /organism="Escherichia virus M13"
+                     /mol_type="genomic DNA"
+                     /isolate="WT variety Rutgers"
+                     /host="Escherichia coli"
+                     /db_xref="taxon:1977402"
+                     /country="USA"
+                     /collection_date="07-Apr-2010"
+                     /locus_tag="source:Escherichia virus M13"
+                     /ApEinfo_fwdcolor="pink"
+                     /ApEinfo_revcolor="pink"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     gene            join(6006..6407,1..831)
+                     /gene="II"
+                     /locus_tag="II"
+                     /ApEinfo_fwdcolor="#ff797d"
+                     /ApEinfo_revcolor="#ff102f"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     CDS             join(6006..6407,1..831)
+                     /gene="II"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="AFQ21789.1"
+                     /translation="MIDMLVLRLPFIDSLVCSRLSGNDLIAFVDLSKIATLSGINLSA
+                     RTVEYHIDGDLTVSGLSHPFESLPTHYSGIAFKIYEGSKNFYPCVEIKASPAKVLQGH
+                     NVFGTTDLALCSEALLLNFANSLPCLYDLLDVNATTISRIDATFSARAPNENIAKQVI
+                     DHLRNVSNGQTKSTRSQNWESTVTWNETSRHRTLVAYLKHVELQHQIQQLSSKPSAKM
+                     TSYQKEQLKVLSNPDLLEFASGLVRFEARIKTRYLKSFGLPLNLFDAIRFASDYNSQG
+                     KDLIFDLWSFSFSELFKAFEGDSMNIYDDSAVLDAIQSKHFTITPSGKTSFAKASRYF
+                     GFYRRLVNEGYDSVALTMPRNSFWRYVSALVECGIPKSQLMNLSTCNNVVPLVRFINV
+                     DFSSQRPDWYNEPVLKIA"
+                     /locus_tag="hypothetical protein"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     gene            496..831
+                     /gene="X"
+                     /locus_tag="X"
+                     /ApEinfo_fwdcolor="#ff797d"
+                     /ApEinfo_revcolor="#ff102f"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     gene            843..1106
+                     /gene="V"
+                     /locus_tag="V"
+                     /ApEinfo_fwdcolor="#ff797d"
+                     /ApEinfo_revcolor="#ff102f"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     CDS             843..1106
+                     /gene="V"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="helix destabilizing protein"
+                     /protein_id="AFQ21792.1"
+                     /translation="MIKVEIKPSQAQFTTRSGVSRQGKPYSLNEQLCYVDLGNEYPVL
+                     VKITLDEGQPAYAPGLYTVHLSSFKVGQFGSLMIDRLRLVPAK"
+                     /locus_tag="helix destabilizing protein"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     gene            1108..1209
+                     /gene="VII"
+                     /locus_tag="VII"
+                     /ApEinfo_fwdcolor="#ff797d"
+                     /ApEinfo_revcolor="#ff102f"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     CDS             1108..1209
+                     /gene="VII"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="phage assembly protein"
+                     /protein_id="AFQ21794.1"
+                     /translation="MEQVADFDTIYQAMIQISVVLCFALGIIAGGQR"
+                     /locus_tag="phage assembly protein"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     gene            1206..1304
+                     /gene="IX"
+                     /locus_tag="IX"
+                     /ApEinfo_fwdcolor="#ff797d"
+                     /ApEinfo_revcolor="#ff102f"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     CDS             1206..1304
+                     /gene="IX"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="AFQ21796.1"
+                     /translation="MSVLVYSFASFVLGWCLRSGITYFTRLMETSS"
+                     /locus_tag="hypothetical protein(1)"
+                     /ApEinfo_label="hypothetical protein"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     gene            1301..1522
+                     /gene="VIII"
+                     /locus_tag="VIII"
+                     /ApEinfo_fwdcolor="#ff797d"
+                     /ApEinfo_revcolor="#ff102f"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     CDS             1301..1522
+                     /gene="VIII"
+                     /note="structural protein"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="major coat protein"
+                     /protein_id="AFQ21795.1"
+                     /translation="MKKSLVLKASVAVATLVPMLSFAAEGDDPAKAAFNSLQASATEY
+                     IGYAWAMVVVIVGATIGIKLFKKFTSKAS"
+                     /locus_tag="major coat protein"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     gene            1579..2853
+                     /gene="III"
+                     /locus_tag="III"
+                     /ApEinfo_fwdcolor="#ff797d"
+                     /ApEinfo_revcolor="#ff102f"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     CDS             1579..2853
+                     /gene="III"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="structural protein"
+                     /protein_id="AFQ21790.1"
+                     /translation="MKKLLFAIPLVVPFYSHSAETVESCLAKPHTENSFTNVWKDDKT
+                     LDRYANYEGCLWNATGVVVCTGDETQCYGTWVPIGLAIPENEGGGSEGGGSEGGGSEG
+                     GGTKPPEYGDTPIPGYTYINPLDGTYPPGTEQNPANPNPSLEESQPLNTFMFQNNRFR
+                     NRQGALTVYTGTFTQGTDPVKTYYQYTPVSSKAMYDAYWNGKFRDCAFHSGFNEDPFV
+                     CEYQGQSSDLPQPPVNAGGGSGGGSGGGSEGGGSEGGGSEGGGSEGGGSGGGSGSGDF
+                     DYEKMANANKGAMTENADENALQSDAKGKLDSVATDYGAAIDGFIGDVSGLANGNGAT
+                     GDFAGSNSQMAQVGDGDNSPLMNNFRQYLPSLPQSVECRPFVFGAGKPYEFSIDCDKI
+                     NLFRGVFAFLLYVATFMYVFSTFANILRNKES"
+                     /locus_tag="structural protein"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     gene            2856..3194
+                     /gene="VI"
+                     /locus_tag="VI"
+                     /ApEinfo_fwdcolor="#ff797d"
+                     /ApEinfo_revcolor="#ff102f"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     CDS             2856..3194
+                     /gene="VI"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="small hydrophobic protein"
+                     /protein_id="AFQ21793.1"
+                     /translation="MPVLLGIPLLLRFLGFLLVTLFGYLLTFLKKGFGKIAIAISLFL
+                     ALIIGLNSILVGYLSDISAQLPSDFVQGVQLILPSNALPCFYVILSVKAAIFIFDVKQ
+                     KIVSYLDWDK"
+                     /locus_tag="small hydrophobic protein"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     gene            3196..4242
+                     /gene="I"
+                     /locus_tag="I"
+                     /ApEinfo_fwdcolor="#ff797d"
+                     /ApEinfo_revcolor="#ff102f"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     CDS             3196..4242
+                     /gene="I"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="phage assembly protein"
+                     /protein_id="AFQ21788.1"
+                     /translation="MAVYFVTGKLGSGKTLVSVGKIQDKIVAGCKIATNLDLRLQNLP
+                     QVGRFAKTPRVLRIPDKPSISDLLAIGRGNDSYDENKNGLLVLDECGTWFNTRSWNDK
+                     ERQPIIDWFLHARKLGWDIIFLVQDLSIVDKQARSALAEHVVYCRRLDRITLPFVGTL
+                     YSLITGSKMPLPKLHVGVVKYGDSQLSPTVERWLYTGKNLYNAYDTKQAFSSNYDSGV
+                     YSYLTPYLSHGRYFKPLNLGQKMKLTKIYLKKFSRVLCLAIGFASAFTYSYITQPKPE
+                     VKKVVSQTYDFDKFTIDSSQRLNLSYRYVFKDSKGKLINSDDLQKQGYSLTYIDLCTV
+                     SIKKGNSNEIVKCN"
+                     /locus_tag="phage assembly protein(1)"
+                     /ApEinfo_label="phage assembly protein"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     gene            4220..5500
+                     /gene="IV"
+                     /locus_tag="IV"
+                     /ApEinfo_fwdcolor="#ff797d"
+                     /ApEinfo_revcolor="#ff102f"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     CDS             4220..5500
+                     /gene="IV"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="phage assembly protein"
+                     /protein_id="AFQ21791.1"
+                     /translation="MKLLNVINFVFLMFVSSSSFAQVIEMNNSPLRDFVTWYSKQSGE
+                     SVIVSPDVKGTVTVYSSDVKPENLRNFFISVLRANNFDMVGSNPSIIQKYNPNNQDYI
+                     DELPSSDNQEYDDNSAPSGGFFVPQNDNVTQTFKINNVRAKDLIRVVELFVKSNTSKS
+                     SNVLSIDGSNLLVVSAPKDILDNLPQFLSTVDLPTDQILIEGLIFEVQQGDALDFSFA
+                     AGSQRGTVAGGVNTDRLTSVLSSAGGSFGIFNGDVLGLSVRALKTNSHSKILSVPRIL
+                     TLSGQKGSISVGQNVPFITGRVTGESANVNNPFQTIERQNVGISMSVFPVAMAGGNIV
+                     LDITSKADSLSSSTQASDVITNQRSIATTVNLRDGQTLLLGGLTDYKNTSQDSGVPFL
+                     SKIPLIGLLFSSRSDSNEESTLYVLVKATIVRAL"
+                     /locus_tag="phage assembly protein(2)"
+                     /ApEinfo_label="phage assembly protein"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    1538..1565
+                     /locus_tag="terminator_smits_et_al"
+                     /ApEinfo_fwdcolor="#ff0000"
+                     /ApEinfo_revcolor="#ff0000"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    3315..3341
+                     /locus_tag="leaky_term_before_gene1_rho_dependant"
+                     /ApEinfo_fwdcolor="#ff6e00"
+                     /ApEinfo_revcolor="#ff6e00"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    5499..5576
+                     /locus_tag="terminator_A"
+                     /ApEinfo_fwdcolor="#ff0000"
+                     /ApEinfo_revcolor="#ff0000"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    412..417
+                     /locus_tag="-10_box_for_X"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="cyan"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    5957..5963
+                     /locus_tag="-10_box_for_II"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="cyan"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    1185..1190
+                     /locus_tag="-10_box_for_VIII"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="cyan"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    6233..6238
+                     /locus_tag="-10_box_for_II'"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="cyan"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    4094..4101
+                     /locus_tag="-10_box_for_IV"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="cyan"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    802..807
+                     /locus_tag="-10_box_for_V"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="cyan"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    1531..1537
+                     /locus_tag="-10_box_for_III"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="cyan"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    2749..2753
+                     /locus_tag="-10_box_for_VI"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="cyan"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    3115..3121
+                     /locus_tag="-10_box_for_I"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="cyan"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    3255..3260
+                     /locus_tag="-10_box_for_I'"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="cyan"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    4665..4671
+                     /locus_tag="-10_box_for IV'"
+                     /ApEinfo_fwdcolor="cyan"
+                     /ApEinfo_revcolor="cyan"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    5624..5678
+                     /locus_tag="terminator B"
+                     /ApEinfo_fwdcolor="#ff0000"
+                     /ApEinfo_revcolor="#ff0000"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    5488..5868
+                     /locus_tag="m13 ori"
+                     /ApEinfo_fwdcolor="#008100"
+                     /ApEinfo_revcolor="#008100"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    5691..5750
+                     /locus_tag="terminator C"
+                     /ApEinfo_fwdcolor="#ff0000"
+                     /ApEinfo_revcolor="#ff0000"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     misc_feature    5765..5811
+                     /locus_tag="terminatorD/E"
+                     /ApEinfo_fwdcolor="#ff0000"
+                     /ApEinfo_revcolor="#ff0000"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+     CDS             496..831
+                     /gene="X"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="AFQ21797.1"
+                     /translation="MNIYDDSAVLDAIQSKHFTITPSGKTSFAKASRYFGFYRRLVNE
+                     GYDSVALTMPRNSFWRYVSALVECGIPKSQLMNLSTCNNVVPLVRFINVDFSSQRPDW
+                     YNEPVLKIA"
+                     /locus_tag="hypothetical protein(2)"
+                     /ApEinfo_label="hypothetical protein"
+                     /ApEinfo_fwdcolor="#e9d024"
+                     /ApEinfo_revcolor="#e9d024"
+                     /ApEinfo_graphicformat="arrow_data {{0 1 2 0 0 -1} {} 0}
+                     width 5 offset 0"
+ORIGIN
+        1 aacgctacta ctattagtag aattgatgcc accttttcag ctcgcgcccc aaatgaaaat
+       61 atagctaaac aggttattga ccatttgcga aatgtatcta atggtcaaac taaatctact
+      121 cgttcgcaga attgggaatc aactgttaca tggaatgaaa cttccagaca ccgtacttta
+      181 gttgcatatt taaaacatgt tgagctacag caccagattc agcaattaag ctctaagcca
+      241 tccgcaaaaa tgacctctta tcaaaaggag caattaaagg tactctctaa tcctgacctg
+      301 ttggagtttg cttccggtct ggttcgcttt gaagctcgaa ttaaaacgcg atatttgaag
+      361 tctttcgggc ttcctcttaa tctttttgat gcaatccgct ttgcttctga ctataatagt
+      421 cagggtaaag acctgatttt tgatttatgg tcattctcgt tttctgaact gtttaaagca
+      481 tttgaggggg attcaatgaa tatttatgac gattccgcag tattggacgc tatccagtct
+      541 aaacatttta ctattacccc ctctggcaaa acttcttttg caaaagcctc tcgctatttt
+      601 ggtttttatc gtcgtctggt aaacgagggt tatgatagtg ttgctcttac tatgcctcgt
+      661 aattcctttt ggcgttatgt atctgcatta gttgaatgtg gtattcctaa atctcaactg
+      721 atgaatcttt ctacctgtaa taatgttgtt ccgttagttc gttttattaa cgtagatttt
+      781 tcttcccaac gtcctgactg gtataatgag ccagttctta aaatcgcata aggtaattca
+      841 caatgattaa agttgaaatt aaaccatctc aagcccaatt tactactcgt tctggtgttt
+      901 ctcgtcaggg caagccttat tcactgaatg agcagctttg ttacgttgat ttgggtaatg
+      961 aatatccggt tcttgtcaag attactcttg atgaaggtca gccagcctat gcgcctggtc
+     1021 tgtacaccgt tcatctgtcc tctttcaaag ttggtcagtt cggttccctt atgattgacc
+     1081 gtctgcgcct cgttccggct aagtaacatg gagcaggtcg cggatttcga cacaatttat
+     1141 caggcgatga tacaaatctc cgttgtactt tgtttcgcgc ttggtataat cgctgggggt
+     1201 caaagatgag tgttttagtg tattctttcg cctctttcgt tttaggttgg tgccttcgta
+     1261 gtggcattac gtattttacc cgtttaatgg aaacttcctc atgaaaaagt ctttagtcct
+     1321 caaagcctct gtagccgttg ctaccctcgt tccgatgctg tctttcgctg ctgagggtga
+     1381 cgatcccgca aaagcggcct ttaactccct gcaagcctca gcgaccgaat atatcggtta
+     1441 tgcgtgggcg atggttgttg tcattgtcgg cgcaactatc ggtatcaagc tgtttaagaa
+     1501 attcacctcg aaagcaagct gataaaccga tacaattaaa ggctcctttt ggagcctttt
+     1561 tttttggaga ttttcaacgt gaaaaaatta ttattcgcaa ttcctttagt tgttcctttc
+     1621 tattctcact ccgctgaaac tgttgaaagt tgtttagcaa aaccccatac agaaaattca
+     1681 tttactaacg tctggaaaga cgacaaaact ttagatcgtt acgctaacta tgagggctgt
+     1741 ctgtggaatg ctacaggcgt tgtagtttgt actggtgacg aaactcagtg ttacggtaca
+     1801 tgggttccta ttgggcttgc tatccctgaa aatgagggtg gtggctctga gggtggcggt
+     1861 tctgagggtg gcggttctga gggtggcggt actaaacctc ctgagtacgg tgatacacct
+     1921 attccgggct atacttatat caaccctctc gacggcactt atccgcctgg tactgagcaa
+     1981 aaccccgcta atcctaatcc ttctcttgag gagtctcagc ctcttaatac tttcatgttt
+     2041 cagaataata ggttccgaaa taggcagggg gcattaactg tttatacggg cacttttact
+     2101 caaggcactg accccgttaa aacttattac cagtacactc ctgtatcatc aaaagccatg
+     2161 tatgacgctt actggaacgg taaattcaga gactgcgctt tccattctgg ctttaatgag
+     2221 gatccattcg tttgtgaata tcaaggccaa tcgtctgacc tgcctcaacc tcctgtcaat
+     2281 gctggcggcg gctctggtgg tggttctggt ggcggctctg agggtggtgg ctctgagggt
+     2341 ggcggttctg agggtggcgg ctctgaggga ggcggttccg gtggtggctc tggttccggt
+     2401 gattttgatt atgaaaagat ggcaaacgct aataaggggg ctatgaccga aaatgccgat
+     2461 gaaaacgcgc tacagtctga cgctaaaggc aaacttgatt ctgtcgctac tgattacggt
+     2521 gctgctatcg atggtttcat tggtgacgtt tccggccttg ctaatggtaa tggtgctact
+     2581 ggtgattttg ctggctctaa ttcccaaatg gctcaagtcg gtgacggtga taattcacct
+     2641 ttaatgaata atttccgtca atatttacct tccctccctc aatcggttga atgtcgccct
+     2701 tttgtctttg gcgctggtaa accatatgaa ttttctattg attgtgacaa aataaactta
+     2761 ttccgtggtg tctttgcgtt tcttttatat gttgccacct ttatgtatgt attttctacg
+     2821 tttgctaaca tactgcgtaa taaggagtct taatcatgcc agttcttttg ggtattccgt
+     2881 tattattgcg tttcctcggt ttccttctgg taactttgtt cggctatctg cttacttttc
+     2941 ttaaaaaggg cttcggtaag atagctattg ctatttcatt gtttcttgct cttattattg
+     3001 ggcttaactc aattcttgtg ggttatctct ctgatattag cgctcaatta ccctctgact
+     3061 ttgttcaggg tgttcagtta attctcccgt ctaatgcgct tccctgtttt tatgttattc
+     3121 tctctgtaaa ggctgctatt ttcatttttg acgttaaaca aaaaatcgtt tcttatttgg
+     3181 attgggataa ataatatggc tgtttatttt gtaactggca aattaggctc tggaaagacg
+     3241 ctcgttagcg ttggtaagat tcaggataaa attgtagctg ggtgcaaaat agcaactaat
+     3301 cttgatttaa ggcttcaaaa cctcccgcaa gtcgggaggt tcgctaaaac gcctcgcgtt
+     3361 cttagaatac cggataagcc ttctatatct gatttgcttg ctattgggcg cggtaatgat
+     3421 tcctacgatg aaaataaaaa cggcttgctt gttctcgatg agtgcggtac ttggtttaat
+     3481 acccgttctt ggaatgataa ggaaagacag ccgattattg attggtttct acatgctcgt
+     3541 aaattaggat gggatattat ttttcttgtt caggacttat ctattgttga taaacaggcg
+     3601 cgttctgcat tagctgaaca tgttgtttat tgtcgtcgtc tggacagaat tactttacct
+     3661 tttgtcggta ctttatattc tcttattact ggctcgaaaa tgcctctgcc taaattacat
+     3721 gttggcgttg ttaaatatgg cgattctcaa ttaagcccta ctgttgagcg ttggctttat
+     3781 actggtaaga atttgtataa cgcatatgat actaaacagg ctttttctag taattatgat
+     3841 tccggtgttt attcttattt aacgccttat ttatcacacg gtcggtattt caaaccatta
+     3901 aatttaggtc agaagatgaa attaactaaa atatatttga aaaagttttc tcgcgttctt
+     3961 tgtcttgcga ttggatttgc atcagcattt acatatagtt atataaccca acctaagccg
+     4021 gaggttaaaa aggtagtctc tcagacctat gattttgata aattcactat tgactcttct
+     4081 cagcgtctta atctaagcta tcgctatgtt ttcaaggatt ctaagggaaa attaattaat
+     4141 agcgacgatt tacagaagca aggttattca ctcacatata ttgatttatg tactgtttcc
+     4201 attaaaaaag gtaattcaaa tgaaattgtt aaatgtaatt aattttgttt tcttgatgtt
+     4261 tgtttcatca tcttcttttg ctcaggtaat tgaaatgaat aattcgcctc tgcgcgattt
+     4321 tgtaacttgg tattcaaagc aatcaggcga atccgttatt gtttctcccg atgtaaaagg
+     4381 tactgttact gtatattcat ctgacgttaa acctgaaaat ctacgcaatt tctttatttc
+     4441 tgttttacgt gcaaataatt ttgatatggt aggttctaac ccttccatta ttcagaagta
+     4501 taatccaaac aatcaggatt atattgatga attgccatca tctgataatc aggaatatga
+     4561 tgataattcc gctccttctg gtggtttctt tgttccgcaa aatgataatg ttactcaaac
+     4621 ttttaaaatt aataacgttc gggcaaagga tttaatacga gttgtcgaat tgtttgtaaa
+     4681 gtctaatact tctaaatcct caaatgtatt atctattgac ggctctaatc tattagttgt
+     4741 tagtgctcct aaagatattt tagataacct tcctcaattc ctttcaactg ttgatttgcc
+     4801 aactgaccag atattgattg agggtttgat atttgaggtt cagcaaggtg atgctttaga
+     4861 tttttcattt gctgctggct ctcagcgtgg cactgttgca ggcggtgtta atactgaccg
+     4921 cctcacctct gttttatctt ctgctggtgg ttcgttcggt atttttaatg gcgatgtttt
+     4981 agggctatca gttcgcgcat taaagactaa tagccattca aaaatattgt ctgtgccacg
+     5041 tattcttacg ctttcaggtc agaagggttc tatctctgtt ggccagaatg tcccttttat
+     5101 tactggtcgt gtgactggtg aatctgccaa tgtaaataat ccatttcaga cgattgagcg
+     5161 tcaaaatgta ggtatttcca tgagcgtttt tcctgttgca atggctggcg gtaatattgt
+     5221 tctggatatt accagcaagg ccgatagttt gagttcttct actcaggcaa gtgatgttat
+     5281 tactaatcaa agaagtattg ctacaacggt taatttgcgt gatggacaga ctcttttact
+     5341 cggtggcctc actgattata aaaacacttc tcaggattct ggcgtaccgt tcctgtctaa
+     5401 aatcccttta atcggcctcc tgtttagctc ccgctctgat tctaacgagg aaagcacgtt
+     5461 atacgtgctc gtcaaagcaa ccatagtacg cgccctgtag cggcgcatta agcgcggcgg
+     5521 gtgtggtggt tacgcgcagc gtgaccgcta cacttgccag cgccctagcg cccgctcctt
+     5581 tcgctttctt cccttccttt ctcgccacgt tcgccggctt tccccgtcaa gctctaaatc
+     5641 gggggctccc tttagggttc cgatttagtg ctttacggca cctcgacccc aaaaaacttg
+     5701 atttgggtga tggttcacgt agtgggccat cgccctgata gacggttttt cgccctttga
+     5761 cgttggagtc cacgttcttt aatagtggac tcttgttcca aactggaaca acactcaacc
+     5821 ctatctcggg ctattctttt gatttataag ggattttgcc gatttcggcc tattggttaa
+     5881 aaaatgagct gatttaacaa aaatttaacg cgaattttaa caaaatatta acgtttacaa
+     5941 tttaaatatt tgcttataca atcttcctgt ttttggggct tttctgatta tcaaccgggg
+     6001 tacatatgat tgacatgcta gttttacgat taccgttcat cgattctctt gtttgctcca
+     6061 gactctcagg caatgacctg atagcctttg tagacctctc aaaaatagct accctctccg
+     6121 gcattaattt atcagctaga acggttgaat atcatattga tggtgatttg actgtctccg
+     6181 gcctttctca cccttttgaa tctttaccta cacattactc aggcattgca tttaaaatat
+     6241 atgagggttc taaaaatttt tatccttgcg ttgaaataaa ggcttctccc gcaaaagtat
+     6301 tacagggtca taatgttttt ggtacaaccg atttagcttt atgctctgag gctttattgc
+     6361 ttaattttgc taattctttg ccttgcctgt atgatttatt ggatgtt 
+//
