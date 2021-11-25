@@ -9,7 +9,7 @@ from Bio import Seq
 # To recode refactored zone (and corresponding regions)
 ###########################################################
 
-def recode_max_editing_distance(seq_ref,seq_to_change ,codon_table_mesoL1,seed):
+def recode_max_editing_distance(seq_ref,seq_to_change,codon_table_mesoL1,seed):
     """
     Some duplications may occur during the refactoring process of M. florum. This function help solve these problems.
     the length(sequence)%3 must be 0, otherwise the sequence won't be recoded. Sequence in frame ONLY!
